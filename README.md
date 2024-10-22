@@ -6,3 +6,5 @@
 2. https://rolling-scopes-school.github.io/alexspearsi-JSFEPRESCHOOL/eco-sounds/
 3. https://rolling-scopes-school.github.io/alexspearsi-JSFEPRESCHOOL/random-jokes/
 4. https://rolling-scopes-school.github.io/alexspearsi-JSFEPRESCHOOL/tic-tac-toe/
+
+https://wakatime.com/badge/github/AlexSpearsI/alexspearsi.svg
